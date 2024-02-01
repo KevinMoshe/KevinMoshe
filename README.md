@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin from Kenya with over 3 years of experience in the Data Analyst field.
+- 👋 Hi, I’m Kevin with over 3 years of experience in the Data Analyst field.
 - I am really passionate when it comes to using my proficiency in Python, SQL, Excel, Tableau and Power BI to provide actionable insights for various industries.
 - 👀 I’m skilled in data visualization, statistical analysis and machine learning. I'm interested in extracting, transforming and analysing data.
 - 🌱 I’m currently seeking to leverage my expertise and creativity to solve complex business problems and drive data-driven decision making.
